@@ -339,3 +339,11 @@ FakesAssemblies/
 >>>>>>> GitHub/master
 
 /.vs/*
+/AlphaWindow/.vs
+/AutoUpdater.NET/.vs
+/Console/WakeOnLanC/.vs
+/EventLogViewer/.vs
+/Localization/.vs
+/Machines/.vs
+/SetupHelpers/.vs
+/WOL/.vs
